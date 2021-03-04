@@ -9,9 +9,9 @@ namespace StockAPICall.API
     {
         public static async Task<StockHIstory> LoadStock()
         {
-            string url = "https://www.alphavantage.co/query";
+            //string url = "https://www.alphavantage.co/query";
 
-            using(HttpResponseMessage response = await StockService.)
+         //   using(HttpResponseMessage response = await StockService.)
             
         }
         //intraday request
