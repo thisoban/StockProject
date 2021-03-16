@@ -9,7 +9,7 @@ namespace DAL
         public MySqlConnection conn;
         public DalAcces()
         {
-            conn = new MySqlConnection("server=studmysql01.fhict.local;Uid=dbi419727;Database=dbi419727;pwd=test;");
+            conn = new MySqlConnection("Server=studmysql01.fhict.local;Uid=dbi419727;Database=dbi419727;Pwd=test;");
         }
     }
 }

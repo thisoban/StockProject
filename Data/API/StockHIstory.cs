@@ -9,11 +9,12 @@ namespace StockAPICall.API
     {
         public static async Task<StockHIstory> LoadStock()
         {
+            return NotImplementedException;
+        }
             //string url = "https://www.alphavantage.co/query";
 
-         //   using(HttpResponseMessage response = await StockService.)
-            
-        }
+            //   using(HttpResponseMessage response = await StockService.)
+           
         //intraday request
 
         //daily 
